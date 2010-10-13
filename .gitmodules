@@ -15,7 +15,7 @@
 	url = git://github.com/bitweaver/util.git
 [submodule "themes"]
 	path = themes
-	url = git://github.com/tekimaki/themes.git
+	url = git@github.com:asierrajr/themes.git
 [submodule "users"]
 	path = users
 	url = git://github.com/tekimaki/users.git
@@ -123,7 +123,7 @@
 	url = git://github.com/tekimaki/libertygraph.git
 [submodule "pkgmkr"]
 	path = pkgmkr
-	url = git://github.com/asierrajr/bitweaver-package-maker.git
+	url = git@github.com:asierrajr/bitweaver-package-maker.git
 [submodule "gatekeeper"]
 	path = gatekeeper
 	url = git://github.com/tekimaki/gatekeeper.git
@@ -136,3 +136,6 @@
 [submodule "fckeditor"]
 	path = fckeditor
 	url = git://github.com/tekimaki/fckeditor.git
+[submodule "blurb"]
+	path = blurb
+	url = git@github.com:asierrajr/blurb.git
